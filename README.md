@@ -52,5 +52,3 @@ This project follows the typical ML development life cycle:
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 
 ---
-
-## 📂 Repository Structure
